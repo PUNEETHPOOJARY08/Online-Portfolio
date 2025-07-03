@@ -1,0 +1,28 @@
+🌐 Personal Portfolio Website
+
+This is my **Personal Portfolio Website** created using **HTML, CSS, and JavaScript**. It showcases skills, contact information, and professional background as a **Full-Stack Developer**.
+
+🔗 Live Demo
+Check it out here: [View Portfolio](https://yourusername.github.io/your-repo-name)
+
+> Replace the above link with your actual GitHub Pages URL.
+
+---
+
+🚀 Features
+
+- Responsive design (works on all devices)
+- Smooth scrolling and navigation
+- Skills section
+- Contact form / Contact details
+- Stylish and modern user interface
+
+---
+
+🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+
+---
