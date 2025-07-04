@@ -11,7 +11,7 @@ Check it out here: [View Portfolio](https://yourusername.github.io/your-repo-nam
 
 🚀 Features
 
-- Responsive design (works on all devices)
+- Responsive design (works in laptop and smartphone also)
 - Smooth scrolling and navigation
 - Skills section
 - Contact form / Contact details
@@ -23,6 +23,4 @@ Check it out here: [View Portfolio](https://yourusername.github.io/your-repo-nam
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
-
----
+- **JavaScript**
