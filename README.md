@@ -3,7 +3,7 @@
 This is my **Personal Portfolio Website** created using **HTML, CSS, and JavaScript**. It showcases skills, contact information, and professional background as a **Full-Stack Developer**.
 
 🔗 Live Demo
-Check it out here: [View Portfolio](https://yourusername.github.io/your-repo-name)
+Check it out here: file:///C:/Users/HP/OneDrive/Desktop/Portfolio/index.html
 
 > Replace the above link with your actual GitHub Pages URL.
 
